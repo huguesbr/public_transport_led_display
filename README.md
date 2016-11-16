@@ -1,4 +1,4 @@
-# Public Transport Timetable
+# Public Transport Timetable LED Display
 
 Simple processing app controlling a Arduino to display some information about local (hardcoded) public transport timetable.
 
