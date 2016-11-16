@@ -12,6 +12,6 @@ Number of bikes availables at a station (hardcoded).
 
 ## TODO
 
-[] Move from processing to Arduino + Wifi Shield
-[] Use NeoPixel to display info
-[] Relay control for larger display
+  [] Move from processing to Arduino + Wifi Shield
+  [] Use NeoPixel to display info
+  [] Relay control for larger display
